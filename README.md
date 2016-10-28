@@ -12,7 +12,7 @@ Please see [CONTRIBUTING] for details.
 
 - JavaScript
 
-    * [FreeCodeCamp/FreeCodeCamp](#freecodecampfreecodecamp)
+    * <img src="https://www.google.com/s2/favicons?domain=http://freecodecamp.com" width="16" height="16" />&nbsp;[FreeCodeCamp/FreeCodeCamp](#freecodecampfreecodecamp)
     * <img src="http://www.google.com/s2/favicons?domain=http://angularjs.org" width="16" height="16" />&nbsp;
 [angular/angular.js](#angularangular.js)
     * <img src="http://www.google.com/s2/favicons?domain=https://www.meteor.com" width="16" height="16" />&nbsp;
